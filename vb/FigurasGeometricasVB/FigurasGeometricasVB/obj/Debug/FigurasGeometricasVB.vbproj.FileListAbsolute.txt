@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\bin\Debug\FigurasGeometricasVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\bin\Debug\FigurasGeometricasVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\bin\Debug\FigurasGeometricasVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\bin\Debug\FigurasGeometricasVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.frmFigurasGeometricas.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\vb\FigurasGeometricasVB\FigurasGeometricasVB\obj\Debug\FigurasGeometricasVB.pdb
