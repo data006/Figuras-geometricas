@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\bin\Debug\FigurasGeometricasCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\bin\Debug\FigurasGeometricasCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\bin\Debug\FigurasGeometricasCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\obj\Debug\FigurasGeometricasCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\obj\Debug\FigurasGeometricasCS.frmFigurasGeometricasCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\obj\Debug\FigurasGeometricasCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\obj\Debug\FigurasGeometricasCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\obj\Debug\FigurasGeometricasCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\6\cs\FigurasGeometricasCS\FigurasGeometricasCS\obj\Debug\FigurasGeometricasCS.pdb
